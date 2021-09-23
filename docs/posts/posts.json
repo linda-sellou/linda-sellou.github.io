@@ -1,0 +1,22 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to My Blog",
+    "description": "Welcome to our new blog, My Blog. We hope you enjoy\nreading what we have to say!",
+    "author": [
+      {
+        "name": "Chammika Udalagama",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-09-22",
+    "categories": [
+      "Education",
+      "Assessment"
+    ],
+    "contents": "\n\nContents\nHello\nThis is a section\nThis is another section\n\n\nHello\nThis is a section\nThis is another section\n\n\n\n",
+    "preview": "https://beta.rstudioconnect.com/content/11424/posts/2017-09-13-asset-volatility/asset-volatility_files/figure-html5/unnamed-chunk-13-1.png",
+    "last_modified": "2021-09-23T22:18:38+08:00",
+    "input_file": {}
+  }
+]

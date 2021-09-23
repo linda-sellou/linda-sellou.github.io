@@ -1,0 +1,64 @@
+---
+title: "Chammika Udalagama"
+image: images/dontpanic_1024.jpg
+links:
+  # - label: LinkedIn
+  #   url: "https://linkedin.com/"
+  # - label: Twitter
+  #   url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:chammika@nus.edu.sg"
+output:
+  postcards::jolla
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+```
+
+<style>
+    .my-education {
+      border-collapse: collapse;
+    }
+
+    .my-education td:nth-of-type(1) {
+      text-align: center;
+      vertical-align: top;
+      font-size:2em;
+      width:2em;
+    }
+
+    .my-education td:nth-of-type(2) {
+      padding-top: .5em;
+      padding-bottom: .5em;
+      padding-left: 1em;
+      text-align:left;
+      width:400px;
+    }
+</style>
+
+
+**Origins** I am originally from the beautiful island of Serendib (a.k.a Sri Lanka). After finishing my bachelor's degree in New Delhi, I arrived in the Lion City at the start of the Millenium. Singapore has since been my home.
+
+## Education
+
+<table class='my-education'>
+<thead>
+</thead>
+<tbody>
+<tr>
+<td><i class="fas fa-graduation-cap"></i></td>
+<td>PhD in Physics (2006), <br>Department of Physics,<br>National University of Singapore,<br>Singapore
+</td>
+</tr>
+<tr>
+<td><i class="fas fa-graduation-cap"></i></td>
+<td>BSc(Honours) in Physics (1999), <br>Hindu College, Delhi University,<br>New Delhi, India.</td>
+</tr>
+</tbody>
+</table>
