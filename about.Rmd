@@ -1,5 +1,5 @@
 ---
-title: "Chammika Udalagama"
+title: "Linda Sellou"
 image: images/dontpanic_1024.jpg
 links:
   # - label: LinkedIn
