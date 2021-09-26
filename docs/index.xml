@@ -7,7 +7,18 @@
     <description>Welcome to my blog! I hope you will find something useful in these pages...
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Wed, 22 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Title</title>
+      <dc:creator>Linda Sellou</dc:creator>
+      <link>https://linda-sellou.github.io/posts/template</link>
+      <description>A short description of the post.</description>
+      <category>Education</category>
+      <category>Assessment</category>
+      <guid>https://linda-sellou.github.io/posts/template</guid>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://linda-sellou.github.io/posts/template/template_files/figure-html5/pressure-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
     <item>
       <title>Welcome to My Blog</title>
       <dc:creator>Linda Sellou</dc:creator>

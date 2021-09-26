@@ -19,30 +19,28 @@ width:100%;
 height:75px;
 line-height:75px;
 background:#F8F0DF;
+background:white;
 text-align:center;
 margin-top:-15px;
+color:darkorange;
 }
 
 .my-front-welcome-span{
 padding-left:30px;
 font-size:22px;
-font-weight:normal;
+font-weight:bold;
 }
 
 </style>
 
-
-```{r layout="l-screen",results='asis'}
+```{r layout="l-screen",results='asis',eval=F}
 line_1 <- '<div class="my-front-welcome-div"><span class="my-front-welcome-span">'
-line_2 <- "'Enchantée... Welcome to Linda Sellou\'s Website'"
+line_2 <- "'Enchantée... Welcome to Linda\'s Website'"
 line_3 <- '</span></div>'
 cat(line_1,line_2,line_3)
 ```
-
-
 
 ```{r layout="l-screen"}
 # knitr::include_graphics('./images/linda-wonder-ponder.JPG')
 knitr::include_graphics('./images/linda-wonder-ponder-stretched-smoothed.jpg')
 ```
-

@@ -1,5 +1,27 @@
 [
   {
+    "path": "posts/template/",
+    "title": "Title",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Linda Sellou",
+        "url": {}
+      }
+    ],
+    "date": "2021-09-26",
+    "categories": [
+      "Education",
+      "Assessment"
+    ],
+    "contents": "\n\nContents\nR Markdown\nIncluding Plots\n\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\nFigure 1: This is figure caption\n\n\n\nI am referring to figure 1!\nR Markdown\nThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00  \n\nIncluding Plots\nYou can also embed plots, for example:\n\n\n\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot.\n\n\n\n",
+    "preview": "posts/template/template_files/figure-html5/pressure-1.png",
+    "last_modified": "2021-09-26T19:43:33+08:00",
+    "input_file": {},
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to My Blog",
     "description": "Welcome to our new blog, My Blog. We hope you enjoy\nreading what we have to say!",

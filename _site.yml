@@ -7,7 +7,7 @@ base_url: https://linda-sellou.github.io/
 repository_url: https://github.com/linda-sellou/linda-sellou.github.io
 #includes:
 #in_header: ./hypothesis.html
-theme: my-css.css
+theme: linda.css
 navbar:
   logo: ./images/daisy.png
   left:
@@ -15,8 +15,8 @@ navbar:
       href: index.xml
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+#    - text: "About"
+#      href: about.html
     # - text: "Publish"
     #   menu:
     #     - text: "Publishing Articles"

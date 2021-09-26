@@ -1,4 +1,3 @@
-
 /* base variables */
 
 /* Edit the CSS properties in this file to create a custom
@@ -68,11 +67,12 @@ d-appendix {
 
 .distill-site-header {
   --title-size:       20px;
-  --text-color:       rgba(0,0,0, 1);
+  --text-color:       darkorange;
   --text-size:        18px;
-  --hover-color:      darkorange;
+  --hover-color:      white;
   --bkgd-color:       #FEFBF3;
   --bkgd-color:       #F8F0DF;
+  --bkgd-color:       rgb(0,0,0,.8);
 }
 
 .distill-site-footer {
