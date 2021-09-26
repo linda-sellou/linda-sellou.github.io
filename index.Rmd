@@ -1,5 +1,5 @@
 ---
-title: "Thoughts and Ruminations"
+title: "Wonderings & Ponderings"
 site: distill::distill_website
 listing: posts
 ---
@@ -10,3 +10,27 @@ knitr::opts_chunk$set(echo = FALSE)
 # Learn more about creating blogs with Distill at:
 # https://rstudio.github.io/distill/blog.html
 ```
+
+<br>
+<style>
+.my-front-welcome{
+text-align:center;
+width:100%;
+margin-top:2em;
+margin-bottom:1em;
+font-size:1.25em;
+font-weight:bolder;
+}
+</style>
+
+
+
+<div class="my-front-welcome">
+Welcome to Linda Sellou's Website
+</div>
+<!-- ```{r layout="l-screen-inset shaded"} -->
+
+```{r layout="l-screen-inset"}
+knitr::include_graphics('./images/linda-wonder-ponder.JPG')
+```
+

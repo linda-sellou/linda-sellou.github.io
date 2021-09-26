@@ -1,15 +1,15 @@
-name: "Chammika Udalagama"
-title: "This and That"
+name: "Linda Sellou"
+title: "Linda Sellou"
 description: |
-  xxx
+  Welcome to my blog! I hope you will find something useful in these pages...
 output_dir: "docs"
-base_url: https://chammika-udalagama.github.io/
-repository_url: https://chammika-udalagama.github.io/
+base_url: https://linda-sellou.github.io/
+repository_url: https://github.com/linda-sellou/linda-sellou.github.io
 #includes:
 #in_header: ./hypothesis.html
 theme: my-css.css
 navbar:
-  logo: images/dontpanic_1024.jpg
+  logo: ./images/daisy.png
   left:
     - icon: fa fa-rss
       href: index.xml

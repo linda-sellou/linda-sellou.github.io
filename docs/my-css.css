@@ -66,6 +66,15 @@ d-appendix {
   --bkgd-color:       #0F2E3D;
 }
 
+.distill-site-header {
+  --title-size:       20px;
+  --text-color:       rgba(0,0,0, 1);
+  --text-size:        18px;
+  --hover-color:      darkorange;
+  --bkgd-color:       #FEFBF3;
+  --bkgd-color:       #F8F0DF;
+}
+
 .distill-site-footer {
   --text-color:       rgba(255, 255, 255, 0.8);
   --text-size:        15px;
