@@ -5,7 +5,7 @@ description: |
   reading what we have to say!
 preview: https://beta.rstudioconnect.com/content/11424/posts/2017-09-13-asset-volatility/asset-volatility_files/figure-html5/unnamed-chunk-13-1.png
 author:
-  - name: Chammika Udalagama
+  - name: Linda Sellou
     url: https://example.com/norajones
     affiliation: Spacely Sprockets
     affiliation_url: https://example.com/spacelysprokets
@@ -18,6 +18,7 @@ output:
 categories:
   - Education
   - Assessment
+draft: false
 ---
 
 ```{r setup, include=FALSE}

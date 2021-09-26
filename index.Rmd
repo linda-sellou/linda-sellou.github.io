@@ -13,24 +13,35 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br>
 <style>
-.my-front-welcome{
-text-align:center;
+.my-front-welcome-div{
+box-sizing: border-box;
 width:100%;
-margin-top:2em;
-margin-bottom:1em;
-font-size:1.25em;
-font-weight:bolder;
+height:75px;
+line-height:75px;
+background:#F8F0DF;
+text-align:center;
+margin-top:-20px;
 }
+
+.my-front-welcome-span{
+padding-left:30px;
+font-size:22px;
+font-weight:normal;
+}
+
 </style>
 
 
+```{r layout="l-screen",results='asis'}
+line_1 <- '<div class="my-front-welcome-div"><span class="my-front-welcome-span">'
+line_2 <- "'Enchantéw... Welcome to Linda Sellou\'s Website'"
+line_3 <- '</span></div>'
+cat(line_1,line_2,line_3)
+```
 
-<div class="my-front-welcome">
-Welcome to Linda Sellou's Website
-</div>
-<!-- ```{r layout="l-screen-inset shaded"} -->
 
-```{r layout="l-screen-inset"}
+
+```{r layout="l-screen"}
 knitr::include_graphics('./images/linda-wonder-ponder.JPG')
 ```
 
