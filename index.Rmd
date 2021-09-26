@@ -20,7 +20,7 @@ height:75px;
 line-height:75px;
 background:#F8F0DF;
 text-align:center;
-margin-top:-20px;
+margin-top:-15px;
 }
 
 .my-front-welcome-span{
