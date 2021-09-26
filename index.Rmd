@@ -42,6 +42,7 @@ cat(line_1,line_2,line_3)
 
 
 ```{r layout="l-screen"}
-knitr::include_graphics('./images/linda-wonder-ponder.JPG')
+# knitr::include_graphics('./images/linda-wonder-ponder.JPG')
+knitr::include_graphics('./images/linda-wonder-ponder-stretched-smoothed.jpg')
 ```
 
