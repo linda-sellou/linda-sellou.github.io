@@ -2,8 +2,8 @@
 draft: false
 date: 10-18-2021
 title: "Some Thoughts about Digital Literacies"
-#description: |
-#  A short description of the post.
+description: |
+ Here begins my blogging journey...
 categories:
   - Open Networked Learning
   - Digital Literacy
