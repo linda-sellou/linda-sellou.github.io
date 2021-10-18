@@ -31,9 +31,9 @@ navbar:
 collections:
   posts:
     categories: true
-    disqus:
-      shortname: https-linda-sellou-github-io
-      hidden: false
+    # disqus:
+    #   shortname: https-linda-sellou-github-io
+    #   hidden: false
     citations: true
     share: [twitter, linkedin]
     categories_metadata: true
