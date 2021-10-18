@@ -18,6 +18,9 @@ output:
     self_contained: false
     toc: true
     toc_float: true
+    includes:
+#     in_header: hypothesis.html
+     after_body: commento.html
 bibliography: my-mini-bib.bib
 ---
 
