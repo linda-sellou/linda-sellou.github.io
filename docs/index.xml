@@ -7,29 +7,16 @@
     <description>Welcome to my blog! I hope you will find something useful in these pages...
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Sun, 26 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Oct 2021 00:00:00 +0000</lastBuildDate>
     <item>
-      <title>Title</title>
+      <title>Some Thoughts about Digital Literacies</title>
       <dc:creator>Linda Sellou</dc:creator>
-      <link>https://linda-sellou.github.io/posts/template</link>
-      <description>A short description of the post.</description>
-      <category>Education</category>
-      <category>Assessment</category>
-      <guid>https://linda-sellou.github.io/posts/template</guid>
-      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
-      <media:content url="https://linda-sellou.github.io/posts/template/template_files/figure-html5/pressure-1.png" medium="image" type="image/png" width="1248" height="768"/>
-    </item>
-    <item>
-      <title>Welcome to My Blog</title>
-      <dc:creator>Linda Sellou</dc:creator>
-      <link>https://linda-sellou.github.io/posts/welcome</link>
-      <description>Welcome to our new blog, My Blog. We hope you enjoy
-reading what we have to say!</description>
-      <category>Education</category>
-      <category>Assessment</category>
-      <guid>https://linda-sellou.github.io/posts/welcome</guid>
-      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
-      <media:content url="https://beta.rstudioconnect.com/content/11424/posts/2017-09-13-asset-volatility/asset-volatility_files/figure-html5/unnamed-chunk-13-1.png" medium="image" type="image/png"/>
+      <link>https://linda-sellou.github.io/posts/2021-10-18-digital-literacies</link>
+      <description>Some Thoughts about Digital Literacies</description>
+      <category>Open Networked Learning</category>
+      <category>Digital Literacy</category>
+      <guid>https://linda-sellou.github.io/posts/2021-10-18-digital-literacies</guid>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

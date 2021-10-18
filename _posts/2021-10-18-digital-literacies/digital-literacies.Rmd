@@ -1,0 +1,55 @@
+---
+draft: false
+date: 10-18-2021
+title: "Some Thoughts about Digital Literacies"
+#description: |
+#  A short description of the post.
+categories:
+  - Open Networked Learning
+  - Digital Literacy
+# preview: images/dontpanic_1024.jpg # Preview image (OPTINAL! You can also use a web image)
+author:
+  - name: Linda Sellou
+#    url: https://example.com/norajones
+#    affiliation: Spacely Sprockets
+#    affiliation_url: https://example.com/spacelysprokets
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_float: true
+bibliography: my-mini-bib.bib
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Now begins my blogging journey! Exciting but stressful at the same time.
+
+Time has flown by very fast since the beginning of the Open Networked Learning course on Monday 20th September. We spent two weeks getting familiar with the online course structure and getting to know our Problem-based Learning (PBL) group.
+
+It is my first time to get to know and work with people I only met online. We are all aware of the challenges (and benefits) of collaborative work. Usually, working with your colleagues face-to-face requires organization. Imagine working with people in a different time zone with a different working environment (I am in Singapore while all my group members are in Finland and Sweden... Scandinavia?...do correct me please!).
+
+Surprisingly it went pretty smoothly... only because we were well guided at the beginning of this online journey. Our facilitator Alan (who I know from our home institution, National University of Singapore) has prepared us well. I realise the importance of spending time on getting familiar with the learning environment, not to be impeded with it. We also have Luis to help us in this journey, and I think having two people to guide us is not a luxury. Online infrastructure is essential.
+
+After the first two weeks, we tackled our first problem, which focused on digital literacies. The case study presented an educator who enrolled in an online course and is anxious about doing blogs for the first time but acknowledges the importance of social media. I completely related to that. I don't use social media in my private life, but I also know it can be a helpful tool.
+
+To help us understand the digital realm, a webinar was organised on Digital literacies with David White and Jörg Pareigis.
+
+David White presented his Visitors and Residents paradigm [@White2011]. The key idea is that there is a continuum of web engagement. From the Visitors who only use the internet to do Google search to the Residents who have a constant online presence and online interactions, i.e., an online identity. I like the idea of "digital footprint" to measure digital identity. The other idea is that you could be a Digital Resident in your private life and a Digital Visitor in your professional life or vice-versa.
+
+Online engagement is inevitable, especially when you cannot access any more physical places. People have different needs and motivations in different contexts, and therefore their online engagement will change accordingly. The easiest case, it is when you don't think too much about it. For example, you need to buy food, find a doctor or stay up-to-date with safety measures. In these examples, you have a clear goal and procedure; to be independent, you may want to learn to do it yourself. Here, I would like to share with you about my amazing mother. She was born in France, but my grandparents immigrated from Algeria after World War II; she left school very young to work, worked in a factory and her shop later, and had five rowdy kids (me included). It all started with Skype many years ago because I left France and Skype was cheaper to communicate. Then with affordable smartphones (thanks Xiaomi) came Viber. She was only calling first and gradually texting and now sending photos (she recently learned screen capture too!) in our family group. But the best is Netflix. Netflix is a person at home. She wanted to install Netflix on all TVs at home. The problem is some TVs are old. None of my sisters and I could fix the problem. My mum stubbornly (Mediterranean stubbornness) decided to find the solution on her own and asked Google ("Hey Google"). Google led her to Youtube... and she found the help of a YouTuber!
+
+So now, every time he has a problem, she goes on Youtube. Clear goals and Clear motivations.
+
+I often think if my mum had gone to school, she would be a hacker by now. She is such a good example of self-learning in developing her digital literacies.
+
+He got me thinking about acquiring new digital skills and exploring new online spaces.
+
+1. Do you want to use a new tool or platform?
+2. Can you use this new tool or platform?
+3. Do you need to use this new tool or platform?
+
+Maybe it is a good start to reflect on our current digital status. The Visitor/Resident vs Personal/Institution map, proposed by David White and discussed during the webinar, helps find out our digital status at a specific time. First, it helps us think about what we are doing and why. Eventually, it can help to decide on "where" we want to go with our digital goals. The "how" is probably the tricky one...
