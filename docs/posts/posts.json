@@ -1,5 +1,25 @@
 [
   {
+    "path": "posts/2021-11-09-open-learning/",
+    "title": "Open Learning – Sharing and Openness",
+    "description": "Let's venture into open learning and teaching!",
+    "author": [
+      {
+        "name": "Linda Sellou",
+        "url": {}
+      }
+    ],
+    "date": "2021-11-09",
+    "categories": [
+      "Open Networked Learning",
+      "Open education"
+    ],
+    "contents": "\n\n\n\nFigure 1: Open Source (From xkcd)\n\n\n\nLearning, sharing and teaching “openly” is the second topic for discussion in the ONL course. The term “openly” can have many meanings in everyday life depending where, who and for what we are using it. Using \" Open learning and teaching\" is even more complex.\nMy only knowledge about open education was primarily with open educational resources (OER). Starting with MIT OpenCoursWare ocw.mit.edu to PHET phet.colorado.edu to the many MOOCs out there. Actually this semester the course I am teaching, I am using/recommending to my students the educational resources shared by David Harvey (see here) Professor of Chemistry & Biochemistry at DePauw University. Once he got the copyright of his book Modern Analytical Chemistry (published in 1999 by McGraw-Hill), he decided to share and revisit its content online. Not only he is sharing content about analytical chemistry but also he offers very useful simulations (I am using the Cyclic Voltammetry simulation in class and recommend it to people). I had the chance to correspond with him with my final year project student while working on an educational project and I must say he was very helpful. I found his initiative wonderful and I am glad I get the chance to thank him here.\nOf course I have also shared my teaching materials or talks with people who requested them but I have never shared them online openly. Although I am not opposed to it, I haven’t thought about the proper and safest way to do it.\nOER are wonderful tools if used properly. Often preparing our lecture notes and other materials are the first steps of our course design. When you teach traditional topics most of the content is in textbooks and hence in OER as well. Do we have to re-invent the wheel? Is it ok to refer students to OER for the content? Would the students accept other educator’s lectures for example or would they feel cheated? They already do accept reading textbooks and papers but when it comes to let’s say videos, I find they react differently. It would be interesting to see if we can design a course based on OER and the educator just focus on the processes of teaching & learning and the outcome rather than preparing the content. I wonder if it will allow us to have more time to improve our teaching?\nThis leads me to Open Educational Practices (OEP) and that part is definitely more complicated. I still have a lot to explore but I have found the concept of “open pedagogy” quite interesting. In the OER Starter Kit, an open textbook, there is a section on open pedagogy. Using open pedagogy involves using OER but also developing new OER with students. They encourage the use of renewable assignments where students’ work is to be shared with the Community and contribute to OER. I have done a few times, assignments where students had to create videos to help the public to understand complex scientific issues and help informed decision making. I guess this might be considered as open pedagogy?\n(Cronin 2017) discussed how open practices are complex, personal, contextual and all the time negotiated. It is important to have a supportive environment and a collaborative efforts between the university, staff and students. It seems a bit daunting to venture fully in open practices and if one wants, I think it is difficult to do it on your own without support or guidance.\nAlan, our facilitator shared with us an article by (Moscardini, Strachan, and Vlasova 2020) discussing the role of universities in modern society. They are sharing how higher education has to adapt to a society where internet is the main source of information and the main platform for knowledge exchange. They emphasise how the role of university teacher will be more a guide or mentor and how we should learn about Wikinomics which is about mass collaboration and openness.\nSo at the end maybe we won’t have so much choice and we should start preparing…\n\n\n\nCronin, Catherine. 2017. “Open Education, Open Questions.” EDUCAUSE Review 52. https://er.educause.edu/articles/2017/10/open-education-open-questions.\n\n\nMoscardini, A. O., R. Strachan, and T. Vlasova. 2020. “The Role of Universities in Modern Society.” Studies in Higher Education 0 (0): 1–19. https://doi.org/10.1080/03075079.2020.1807493.\n\n\n\n\n",
+    "preview": "http://imgs.xkcd.com/comics/open_source.png",
+    "last_modified": "2021-11-09T19:26:44+08:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2021-10-18-digital-literacies/",
     "title": "Some Thoughts about Digital Literacies",
     "description": "Here begins my blogging journey...",

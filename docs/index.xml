@@ -7,7 +7,18 @@
     <description>Welcome to my blog! I hope you will find something useful in these pages...
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Mon, 18 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Open Learning – Sharing and Openness</title>
+      <dc:creator>Linda Sellou</dc:creator>
+      <link>https://linda-sellou.github.io/posts/2021-11-09-open-learning</link>
+      <description>Let's venture into open learning and teaching!</description>
+      <category>Open Networked Learning</category>
+      <category>Open education</category>
+      <guid>https://linda-sellou.github.io/posts/2021-11-09-open-learning</guid>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      <media:content url="http://imgs.xkcd.com/comics/open_source.png" medium="image" type="image/png"/>
+    </item>
     <item>
       <title>Some Thoughts about Digital Literacies</title>
       <dc:creator>Linda Sellou</dc:creator>

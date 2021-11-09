@@ -1,0 +1,51 @@
+---
+draft: false
+date: 11-09-2021
+title: "Open Learning – Sharing and Openness"
+description: |
+ Let's venture into open learning and teaching!
+categories:
+  - Open Networked Learning
+  - Open education
+preview: http://imgs.xkcd.com/comics/open_source.png
+author:
+  - name: Linda Sellou
+#    url: https://example.com/norajones
+#    affiliation: Spacely Sprockets
+#    affiliation_url: https://example.com/spacelysprokets
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_float: true
+    includes:
+#     in_header: hypothesis.html
+     after_body: commento.html
+bibliography: my-mini-bib.bib
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r, fig.cap='Open Source (From [xkcd](https://xkcd.com/225/))',preview=TRUE}
+knitr::include_graphics('http://imgs.xkcd.com/comics/open_source.png')
+```
+
+
+Learning, sharing and teaching "openly" is the second topic for discussion in the ONL course. The term "openly" can have many meanings in everyday life depending where, who and for what we are using it. Using " Open learning and teaching" is even more complex.
+
+My only knowledge about open education was primarily with open educational resources (OER). Starting with MIT OpenCoursWare [ocw.mit.edu](https://ocw.mit.edu/index.htm) to PHET [phet.colorado.edu](https://phet.colorado.edu/) to the many MOOCs out there. Actually this semester the course I am teaching, I am using/recommending to my students the educational resources shared by David Harvey ([see here](http://dpuadweb.depauw.edu/harvey_web/eTextProject/AnalyticalChemistry2.0.html)) Professor of Chemistry & Biochemistry at DePauw University. Once he got the copyright of his book *Modern Analytical Chemistry* (published in 1999 by McGraw-Hill), he decided to share and revisit its content online. Not only he is sharing content about analytical chemistry but also he offers very useful simulations (I am using the Cyclic Voltammetry simulation in class and recommend it to people). I had the chance to correspond with him with my final year project student while working on an educational project and I must say he was very helpful. I found his initiative wonderful and I am glad I get the chance to thank him here.
+
+Of course I have also shared my teaching materials or talks with people who requested them but I have never shared them online openly. Although I am not opposed to it, I haven't thought about the proper and safest way to do it.
+
+OER are wonderful tools if used properly. Often preparing our lecture notes and other materials are the first steps of our course design. When you teach traditional topics most of the content is in textbooks and hence in OER as well. Do we have to re-invent the wheel? Is it ok to refer students to OER for the content? Would the students accept other educator's lectures for example or would they feel cheated? They already do accept reading textbooks and papers but when it comes to let's say videos, I find they react differently. It would be interesting to see if we can design a course based on OER and the educator just focus on the processes of teaching & learning and the outcome rather than preparing the content. I wonder if it will allow us to have more time to improve our teaching?
+
+This leads me to Open Educational Practices (OEP) and that part is definitely more complicated. I  still have a lot to explore but I have found the concept of "open pedagogy " quite interesting. In the OER Starter Kit, an open textbook, there is a section on [open pedagogy](https://iastate.pressbooks.pub/oerstarterkit/chapter/open-pedagogy/). Using open pedagogy involves using OER but also developing new OER with students. They encourage the use of renewable assignments where students' work is to be shared with the Community and contribute to OER. I have done a few times, assignments where students had to create videos to help the public to understand complex scientific issues and help informed decision making. I guess this might be considered as open pedagogy?
+
+[@Cronin2017] discussed how open practices are complex, personal, contextual and all the time negotiated. It is important to have a supportive environment and a collaborative efforts between the university, staff and students. It seems a bit daunting to venture fully in open practices and  if one wants, I think it is difficult to do it on your own without support or guidance.
+
+Alan, our facilitator shared with us an article by [@Moscardini2020] discussing the role of universities in modern society. They are sharing how higher education has to adapt to a society where internet is the main source of  information and the main platform for knowledge exchange. They emphasise how the role of university teacher will be more a guide or mentor and how we should learn about Wikinomics which is about mass collaboration and openness.
+
+So at the end maybe we won't have so much choice and we should start preparing...
