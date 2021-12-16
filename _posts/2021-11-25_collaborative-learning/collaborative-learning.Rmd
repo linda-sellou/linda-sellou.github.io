@@ -1,0 +1,74 @@
+---
+draft: false
+date: 11-25-2021
+title: "Collaborative Learning"
+description: |
+  Complexity, Benefits, and Challenges of Open Education and Pedagogy.
+categories:
+  - Open Networked Learning
+  - Open education
+preview: https://www.teachthought.com/wp-content/uploads/2018/05/20-collaborative-learning-tips.png
+author:
+  - name: Linda Sellou
+#    url: https://example.com/norajones
+#    affiliation: Spacely Sprockets
+#    affiliation_url: https://example.com/spacelysprokets
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_float: true
+    includes:
+#     in_header: hypothesis.html
+     after_body: commento.html
+bibliography: my-mini-bib.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r, fig.cap='Tips for collaborative learning. (From [www.teachthought.com](https://www.teachthought.com))',preview=TRUE}
+knitr::include_graphics('https://www.teachthought.com/wp-content/uploads/2018/05/20-collaborative-learning-tips.png')
+```
+
+In topic 2, we discussed the complexity, benefits, and challenges of open education and pedagogy. One of the interesting components was teaching and learning in a community. So Topic 3 is a natural continuation of the discussion.
+
+In our group, we decided to focus on finding the best strategies to develop collaborative learning inside the classroom and beyond it. The classroom offers a safe space for students to develop collaborative skills, and opportunities to build networks can be done outside the classroom.
+
+It was pretty useful because I strongly believe in collaborative learning (online and face-to-face), and it allowed me to reflect on my teaching practices. Many of my assignments are based on group work. I realised that for some courses, especially first and second-year students, I am very involved in their group work, but I am less involved in other courses (third-year or even Master's students). Probably because I imagine, at this level, they are already familiar with the process and have acquired the skills. After discussing with my group and reading @Brindley2009 and @Capdeferro2012, it is clear that instructional strategies should be implemented systematically.
+
+It is worth listing the sources of frustration that @Capdeferro2012 found from surveying 40 students from an online Master's programme involved in collaborative learning experiences:
+
+(a) imbalance in the level of commitment, responsibility, and effort,
+
+(b) unshared goals and difficulties in organization,
+
+(c) difficulties in communication/dialogue in terms of frequency,
+
+(d) problems with negotiation skills
+
+(e) imbalance in quality of individual contributions
+
+(f) excess of time spent and workload
+
+(g) conflict and problems in reaching consensus
+
+(h) imbalance between individual expected mark and group mark
+
+(i) misunderstandings
+
+(j) lack of instructor's support/orientation
+
+Some issues are outside our control; however, we can significantly help the effectiveness of group collaboration by choosing appropriate instructional designs. @Brindley2009 shared strategies they used in their online Master's programme to show students the value of collaborative learning and engage them in this experience. Here are some key components I find especially useful:
+
+1. Clear expectations: Tell the students when they will work in groups, for what assignments, and the benefits (now and in the future) they will gain.
+2. Clear instructions for the task: What are they meant to find out as a group? Give them clear directions with learning objectives and assessment rubrics. As a clear structure is essential, making sure they have the space to exercise their independent learning is crucial.
+3. Guidance for collaborative work: Impart the necessary skills for the students to work effectively as a group. It is best achieved with a scaffolded strategy.
+4. Appropriate task: Choosing the right task is important to realise the benefits of working together.
+5. Relevance & connections: Connect to the students' prior knowledge and new knowledge. Provide an opportunity for authentic learning. Get students to give feedback to each other.
+6. Developing rapport: People work best when comfortable with each other, and it takes time. It is worth giving low stake activities for students to bond with others.
+7. Follow group progress & give feedback. Students need to be supported in their collaborative learning. Sometimes it is just a matter of improving their self-efficacy, and other times it helps them address learning challenges.
+8. Give enough time for students to carry out their assignments and make the most of the experience. Also, avoid unnecessary stress.
+
+Collaborative work is a small part of learning in communities. Connected learning has so many layers, so it will take time to understand its full potential. I have a lot to explore!

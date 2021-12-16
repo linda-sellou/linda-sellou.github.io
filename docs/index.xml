@@ -7,7 +7,41 @@
     <description>Welcome to my blog! I hope you will find something useful in these pages...
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Tue, 09 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Modes of Learning</title>
+      <dc:creator>Linda Sellou</dc:creator>
+      <link>https://linda-sellou.github.io/posts/2021-12-16_modes-of-learning</link>
+      <description>This is the end of the ONL journey, or maybe just the beginning!</description>
+      <category>Open Networked Learning</category>
+      <category>Open education</category>
+      <guid>https://linda-sellou.github.io/posts/2021-12-16_modes-of-learning</guid>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://knowledgeone.ca/wp-content/uploads/2020/05/4-modes-en.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Design for Online and Blended Learning</title>
+      <dc:creator>Linda Sellou</dc:creator>
+      <link>https://linda-sellou.github.io/posts/2021-12-02_design-for-online-and-blended-learning</link>
+      <description>We learned from the pandemic that we have to be adaptable and flexible.</description>
+      <category>Open Networked Learning</category>
+      <category>Open education</category>
+      <category>Blended learning</category>
+      <guid>https://linda-sellou.github.io/posts/2021-12-02_design-for-online-and-blended-learning</guid>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://imgs.xkcd.com/comics/correlation.png" medium="image" type="image/png"/>
+    </item>
+    <item>
+      <title>Collaborative Learning</title>
+      <dc:creator>Linda Sellou</dc:creator>
+      <link>https://linda-sellou.github.io/posts/2021-11-25_collaborative-learning</link>
+      <description>Complexity, Benefits, and Challenges of Open Education and Pedagogy.</description>
+      <category>Open Networked Learning</category>
+      <category>Open education</category>
+      <guid>https://linda-sellou.github.io/posts/2021-11-25_collaborative-learning</guid>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://www.teachthought.com/wp-content/uploads/2018/05/20-collaborative-learning-tips.png" medium="image" type="image/png"/>
+    </item>
     <item>
       <title>Open Learning – Sharing and Openness</title>
       <dc:creator>Linda Sellou</dc:creator>
